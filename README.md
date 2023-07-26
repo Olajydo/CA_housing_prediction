@@ -1,0 +1,2 @@
+The task asked to perform is to build a model of housing prices in California using the California census data. This data has metrics such as the population, median income, median housing price, and so on for each block group in California.
+The business objective of the model’s output (a prediction of a district’s median housing price) will be fed to another Machine Learning system  along with many other signals.This downstream system will determine whether it is worth investing in a given area or not.
